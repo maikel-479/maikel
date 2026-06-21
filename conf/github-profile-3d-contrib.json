@@ -1,5 +1,5 @@
 {
-  "filenameFormat": "night-rainbow",
+  "filenameFormat": "customize",
   "outDir": "profile-3d-contrib",
   "greenLevel": 120,
   "rotation": 25,
@@ -9,21 +9,21 @@
     "z": 120
   },
   "contribColors": [
-    "#0D1219",
-    "#162030",
-    "#00E89E",
-    "#00C8C8",
-    "#E066FF",
-    "#4169E1",
-    "#FF6B9D"
+    "#1e1e2e",
+    "#313244",
+    "#45475a",
+    "#a6e3a1",
+    "#89b4fa",
+    "#cba6f7",
+    "#f5c2e7"
   ],
   "blockColors": {
-    "0": "#0D1219",
-    "1": "#162030",
-    "2": "#1E3A50",
-    "3": "#00C8C8",
-    "4": "#00E89E",
-    "5": "#33FFB8",
-    "6": "#E066FF"
+    "0": "#1e1e2e",
+    "1": "#313244",
+    "2": "#45475a",
+    "3": "#89b4fa",
+    "4": "#a6e3a1",
+    "5": "#94e2d5",
+    "6": "#cba6f7"
   }
 }

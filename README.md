@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Maikel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E89E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineering+Student;Neovim+Enthusiast;Building+with+AI+Agents;Learning+Web+Dev+at+Scrimba" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=120&lines=Software+Engineering+Student;Neovim+Enthusiast;Building+with+AI+Agents;Web+Dev+at+Scrimba" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maikel-479&label=Profile%20Views&color=00E89E&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=maikel-479&label=Profile+Views&color=CBA6F7&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -15,12 +15,12 @@
 - **Name:** Maikel Ademola Ademuyiwa
 - **Student:** Software Engineering @ Lead City University (2nd Year)
 - **Location:** Nigeria
-- **Zed Theme Author:** Created [Aurora Borealis](https://github.com/maikel-479?tab=repositories) and other themes
+- **Zed Theme Author:** Created Aurora Borealis and other themes
 - **OS:** Linux (Arch/Hyprland → Artix)
 - **Editor:** Zed & Neovim
-- **Currently Learning:** Web Development, AI Agents & Automation
+- **Currently Learning:** Web Dev, AI Agents & Automation
 
-> *"I love to see systems work."* — Inspired by the feeling of clicking something on a computer and feeling like a god.
+> *"I love to see systems work."*
 
 ---
 
@@ -43,11 +43,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maikel-479&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=00E89E&icon_color=00C8C8&text_color=E8ECF4&ring_color=00E89E" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maikel-479&show_icons=true&theme=tokyonight&bg_color=1e1e2e&hide_border=true&title_color=cba6f7&icon_color=89b4fa&text_color=cdd6f4&ring_color=cba6f7" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maikel-479&theme=radical&background=0D1117&hide_border=true&ring=00E89E&fire=00E89E&currStreakLabel=00E89E" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maikel-479&theme=tokyonight&background=1e1e2e&hide_border=true&ring=cba6f7&fire=a6e3a1&currStreakLabel=cba6f4" alt="Streak Stats" />
 </p>
 
 ---
@@ -57,7 +57,3 @@
 - Learning full-stack web development at Scrimba
 - Building Neovim plugins and configs in Lua
 - Exploring AI agents and automation workflows
-
----
-
-
