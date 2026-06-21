@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ademuyiwa 👋</h1>
+<h1 align="center">Hey, I'm Maikel 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E89E&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineering+Student;Neovim+Enthusiast;Building+with+AI+Agents;Learning+Web+Dev+at+Scrimba" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 ## About Me
 
-- **Name:** Ademuyiwa Ademola
+- **Name:** Maikel Ademola Ademuyiwa
 - **Student:** Software Engineering @ Lead City University (2nd Year)
 - **Location:** Nigeria
 - **Zed Theme Author:** Created [Aurora Borealis](https://github.com/maikel-479?tab=repositories) and other themes
